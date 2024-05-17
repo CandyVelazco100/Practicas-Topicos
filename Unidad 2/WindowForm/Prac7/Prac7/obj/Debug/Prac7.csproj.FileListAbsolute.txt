@@ -1,0 +1,10 @@
+C:\Users\G2-25\source\repos\Prac7\Prac7\bin\Debug\Prac7.exe.config
+C:\Users\G2-25\source\repos\Prac7\Prac7\bin\Debug\Prac7.exe
+C:\Users\G2-25\source\repos\Prac7\Prac7\bin\Debug\Prac7.pdb
+C:\Users\G2-25\source\repos\Prac7\Prac7\obj\Debug\Prac7.csproj.AssemblyReference.cache
+C:\Users\G2-25\source\repos\Prac7\Prac7\obj\Debug\Prac7.Properties.Resources.resources
+C:\Users\G2-25\source\repos\Prac7\Prac7\obj\Debug\Prac7.Ventana1.resources
+C:\Users\G2-25\source\repos\Prac7\Prac7\obj\Debug\Prac7.csproj.GenerateResource.cache
+C:\Users\G2-25\source\repos\Prac7\Prac7\obj\Debug\Prac7.csproj.CoreCompileInputs.cache
+C:\Users\G2-25\source\repos\Prac7\Prac7\obj\Debug\Prac7.exe
+C:\Users\G2-25\source\repos\Prac7\Prac7\obj\Debug\Prac7.pdb

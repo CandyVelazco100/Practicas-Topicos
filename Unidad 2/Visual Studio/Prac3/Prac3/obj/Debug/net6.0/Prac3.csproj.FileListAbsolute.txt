@@ -1,0 +1,15 @@
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.csproj.AssemblyReference.cache
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.AssemblyInfoInputs.cache
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.AssemblyInfo.cs
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\bin\Debug\net6.0\Prac3.exe
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\bin\Debug\net6.0\Prac3.deps.json
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\bin\Debug\net6.0\Prac3.runtimeconfig.json
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\bin\Debug\net6.0\Prac3.dll
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\bin\Debug\net6.0\Prac3.pdb
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.dll
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\refint\Prac3.dll
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.pdb
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\Prac3.genruntimeconfig.cache
+C:\Users\LENOVO SSD\source\repos\Prac3\Prac3\obj\Debug\net6.0\ref\Prac3.dll

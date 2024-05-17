@@ -1,0 +1,10 @@
+E:\Practicas Topicos\Prac5U4\Prac5U4\bin\Debug\Prac5U4.exe.config
+E:\Practicas Topicos\Prac5U4\Prac5U4\bin\Debug\Prac5U4.exe
+E:\Practicas Topicos\Prac5U4\Prac5U4\bin\Debug\Prac5U4.pdb
+E:\Practicas Topicos\Prac5U4\Prac5U4\obj\Debug\Prac5U4.csproj.AssemblyReference.cache
+E:\Practicas Topicos\Prac5U4\Prac5U4\obj\Debug\Prac5U4.VentanaHilos.resources
+E:\Practicas Topicos\Prac5U4\Prac5U4\obj\Debug\Prac5U4.Properties.Resources.resources
+E:\Practicas Topicos\Prac5U4\Prac5U4\obj\Debug\Prac5U4.csproj.GenerateResource.cache
+E:\Practicas Topicos\Prac5U4\Prac5U4\obj\Debug\Prac5U4.csproj.CoreCompileInputs.cache
+E:\Practicas Topicos\Prac5U4\Prac5U4\obj\Debug\Prac5U4.exe
+E:\Practicas Topicos\Prac5U4\Prac5U4\obj\Debug\Prac5U4.pdb

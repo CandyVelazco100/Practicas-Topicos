@@ -1,0 +1,11 @@
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\bin\Debug\PracticaTablaU3.exe.config
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\bin\Debug\PracticaTablaU3.exe
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\bin\Debug\PracticaTablaU3.pdb
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.csproj.AssemblyReference.cache
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.Properties.Resources.resources
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.Tablita.resources
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.csproj.GenerateResource.cache
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.exe
+C:\Users\LENOVO SSD\source\repos\PracticaTablaU3\PracticaTablaU3\obj\Debug\PracticaTablaU3.pdb

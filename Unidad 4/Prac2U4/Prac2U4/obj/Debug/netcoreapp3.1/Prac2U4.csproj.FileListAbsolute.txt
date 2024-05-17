@@ -1,0 +1,28 @@
+E:\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.exe
+E:\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.deps.json
+E:\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.runtimeconfig.json
+E:\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.runtimeconfig.dev.json
+E:\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.dll
+E:\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.pdb
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.csproj.AssemblyReference.cache
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.AssemblyInfoInputs.cache
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.AssemblyInfo.cs
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.csproj.CoreCompileInputs.cache
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.dll
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.pdb
+E:\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.genruntimeconfig.cache
+D:\Practicas Topicos\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.exe
+D:\Practicas Topicos\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.deps.json
+D:\Practicas Topicos\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.runtimeconfig.json
+D:\Practicas Topicos\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.runtimeconfig.dev.json
+D:\Practicas Topicos\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.dll
+D:\Practicas Topicos\Prac2U4\Prac2U4\bin\Debug\netcoreapp3.1\Prac2U4.pdb
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.csproj.AssemblyReference.cache
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.AssemblyInfoInputs.cache
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.AssemblyInfo.cs
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.csproj.CoreCompileInputs.cache
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.dll
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.pdb
+D:\Practicas Topicos\Prac2U4\Prac2U4\obj\Debug\netcoreapp3.1\Prac2U4.genruntimeconfig.cache

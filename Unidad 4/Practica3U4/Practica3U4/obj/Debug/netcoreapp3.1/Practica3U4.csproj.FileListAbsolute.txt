@@ -1,0 +1,14 @@
+E:\Practica3U4\Practica3U4\bin\Debug\netcoreapp3.1\Practica3U4.exe
+E:\Practica3U4\Practica3U4\bin\Debug\netcoreapp3.1\Practica3U4.deps.json
+E:\Practica3U4\Practica3U4\bin\Debug\netcoreapp3.1\Practica3U4.runtimeconfig.json
+E:\Practica3U4\Practica3U4\bin\Debug\netcoreapp3.1\Practica3U4.runtimeconfig.dev.json
+E:\Practica3U4\Practica3U4\bin\Debug\netcoreapp3.1\Practica3U4.dll
+E:\Practica3U4\Practica3U4\bin\Debug\netcoreapp3.1\Practica3U4.pdb
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.csproj.AssemblyReference.cache
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.AssemblyInfoInputs.cache
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.AssemblyInfo.cs
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.csproj.CoreCompileInputs.cache
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.dll
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.pdb
+E:\Practica3U4\Practica3U4\obj\Debug\netcoreapp3.1\Practica3U4.genruntimeconfig.cache

@@ -1,0 +1,72 @@
+C:\Users\G2-25\source\repos\App1\App1\bin\Debug\App1.exe.config
+C:\Users\G2-25\source\repos\App1\App1\bin\Debug\App1.exe
+C:\Users\G2-25\source\repos\App1\App1\bin\Debug\App1.pdb
+C:\Users\G2-25\source\repos\App1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\G2-25\source\repos\App1\App1\obj\Debug\App1.VentanaEjemplo.resources
+C:\Users\G2-25\source\repos\App1\App1\obj\Debug\App1.Properties.Resources.resources
+C:\Users\G2-25\source\repos\App1\App1\obj\Debug\App1.csproj.GenerateResource.cache
+C:\Users\G2-25\source\repos\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\G2-25\source\repos\App1\App1\obj\Debug\App1.exe
+C:\Users\G2-25\source\repos\App1\App1\obj\Debug\App1.pdb
+E:\App1\App1\bin\Debug\App1.exe.config
+E:\App1\App1\bin\Debug\App1.exe
+E:\App1\App1\bin\Debug\App1.pdb
+E:\App1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+E:\App1\App1\obj\Debug\App1.VentanaEjemplo.resources
+E:\App1\App1\obj\Debug\App1.Properties.Resources.resources
+E:\App1\App1\obj\Debug\App1.csproj.GenerateResource.cache
+E:\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\App1\App1\obj\Debug\App1.exe
+E:\App1\App1\obj\Debug\App1.pdb
+E:\Practica_1\App1\bin\Debug\App1.exe.config
+E:\Practica_1\App1\bin\Debug\App1.exe
+E:\Practica_1\App1\bin\Debug\App1.pdb
+E:\Practica_1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+E:\Practica_1\App1\obj\Debug\App1.VentanaEjemplo.resources
+E:\Practica_1\App1\obj\Debug\App1.Properties.Resources.resources
+E:\Practica_1\App1\obj\Debug\App1.csproj.GenerateResource.cache
+E:\Practica_1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\Practica_1\App1\obj\Debug\App1.exe
+E:\Practica_1\App1\obj\Debug\App1.pdb
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\bin\Debug\App1.exe.config
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\bin\Debug\App1.exe
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\bin\Debug\App1.pdb
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\obj\Debug\App1.VentanaEjemplo.resources
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\obj\Debug\App1.Properties.Resources.resources
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\obj\Debug\App1.csproj.GenerateResource.cache
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\obj\Debug\App1.exe
+E:\Practicas Topicos\Unidad 2\WindowForm\Prac5\App1\obj\Debug\App1.pdb
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.SuggestedBindingRedirects.cache
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.VentanaEjemplo.resources
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.Properties.Resources.resources
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.GenerateResource.cache
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.exe
+D:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.pdb
+D:\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.exe.config
+D:\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.exe
+D:\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.pdb
+E:\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.exe.config
+E:\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.exe
+E:\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.pdb
+E:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+E:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.VentanaEjemplo.resources
+E:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.Properties.Resources.resources
+E:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.GenerateResource.cache
+E:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.exe
+E:\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.pdb
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.exe.config
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.exe
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\bin\Debug\App1.pdb
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.SuggestedBindingRedirects.cache
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.VentanaEjemplo.resources
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.Properties.Resources.resources
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.GenerateResource.cache
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.exe
+D:\CarpetaTrabajos\Practicas Topicos\Unidad 3\Prac5\App1\obj\Debug\App1.pdb

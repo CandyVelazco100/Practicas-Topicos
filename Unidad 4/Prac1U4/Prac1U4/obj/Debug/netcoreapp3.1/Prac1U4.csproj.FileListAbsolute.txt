@@ -1,0 +1,14 @@
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\bin\Debug\netcoreapp3.1\Prac1U4.exe
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\bin\Debug\netcoreapp3.1\Prac1U4.deps.json
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\bin\Debug\netcoreapp3.1\Prac1U4.runtimeconfig.json
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\bin\Debug\netcoreapp3.1\Prac1U4.runtimeconfig.dev.json
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\bin\Debug\netcoreapp3.1\Prac1U4.dll
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\bin\Debug\netcoreapp3.1\Prac1U4.pdb
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.csproj.AssemblyReference.cache
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.AssemblyInfoInputs.cache
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.AssemblyInfo.cs
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.csproj.CoreCompileInputs.cache
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.dll
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.pdb
+C:\Users\G2-25\source\repos\Prac1U4\Prac1U4\obj\Debug\netcoreapp3.1\Prac1U4.genruntimeconfig.cache

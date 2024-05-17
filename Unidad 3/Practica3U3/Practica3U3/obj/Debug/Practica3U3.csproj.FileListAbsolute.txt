@@ -1,0 +1,21 @@
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\bin\Debug\Practica3U3.exe.config
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\bin\Debug\Practica3U3.exe
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\bin\Debug\Practica3U3.pdb
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.csproj.AssemblyReference.cache
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.Form1.resources
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.Properties.Resources.resources
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.csproj.GenerateResource.cache
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.exe
+C:\Users\LENOVO SSD\source\repos\Practica3U3\Practica3U3\obj\Debug\Practica3U3.pdb
+E:\Practica3U3\Practica3U3\bin\Debug\Practica3U3.exe.config
+E:\Practica3U3\Practica3U3\bin\Debug\Practica3U3.exe
+E:\Practica3U3\Practica3U3\bin\Debug\Practica3U3.pdb
+E:\Practica3U3\Practica3U3\obj\Debug\Practica3U3.csproj.AssemblyReference.cache
+E:\Practica3U3\Practica3U3\obj\Debug\Practica3U3.Form1.resources
+E:\Practica3U3\Practica3U3\obj\Debug\Practica3U3.Properties.Resources.resources
+E:\Practica3U3\Practica3U3\obj\Debug\Practica3U3.csproj.GenerateResource.cache
+E:\Practica3U3\Practica3U3\obj\Debug\Practica3U3.csproj.CoreCompileInputs.cache
+E:\Practica3U3\Practica3U3\obj\Debug\Practica3U3.exe
+E:\Practica3U3\Practica3U3\obj\Debug\Practica3U3.pdb
